@@ -7,14 +7,13 @@ timezone: America/Chicago
 # ↓ --------------------------
 
 title: MK Dev Hub
-# TODO: update the tagline and description
-tagline: A text-focused Jekyll theme
+tagline: Premium Digital Design Assets for Creators & Professionals
 # TODO: update the description
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
-
+  UI kits, Notion templates, Procreate brushes, and Figma components
+  for healthcare professionals, coffee brands, and modern creators.
 url: "https://mkhub.dev"
-
+avatar: "/assets/img/avatar-digital.png"
 github:
   username: m-kk
 linkedin:
@@ -45,19 +44,19 @@ webmaster_verifications:
 # Web Analytics Settings
 analytics:
   google:
-    id: # fill in your Google Analytics ID
-  goatcounter:
-    id: # fill in your GoatCounter ID
-  umami:
-    id: # fill in your Umami ID
-    domain: # fill in your Umami domain
-  matomo:
-    id: # fill in your Matomo ID
-    domain: # fill in your Matomo domain
-  cloudflare:
-    id: # fill in your Cloudflare Web Analytics token
-  fathom:
-    id: # fill in your Fathom Site ID
+    id: G-B4Y50L565N
+  # goatcounter:
+  #   id: # fill in your GoatCounter ID
+  # umami:
+  #   id: # fill in your Umami ID
+  #   domain: # fill in your Umami domain
+  # matomo:
+  #   id: # fill in your Matomo ID
+  #   domain: # fill in your Matomo domain
+  # cloudflare:
+  #   id: # fill in your Cloudflare Web Analytics token
+  # fathom:
+  #   id: # fill in your Fathom Site ID
 
 # Page views settings
 pageviews:
@@ -82,9 +81,6 @@ theme_mode: dark
 #
 # e.g. 'https://cdn.com'
 cdn:
-
-# the avatar on sidebar, support local or CORS resources
-avatar:
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
