@@ -29,4 +29,4 @@ All digital products include:
 - **Commercial License**: Available on product pages (typically +$20-40)
 - **No attribution required** for paid products
 
-[Contact](/contact/) | [Browse Products](/categories/)
+<!-- [Contact](/contact/) | [Browse Products](/categories/) -->
