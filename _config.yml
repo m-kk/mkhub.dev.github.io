@@ -60,7 +60,6 @@ jekyll_compose:
       categories: []
       tags: []
 
-# TODO: update
 # Web Analytics Settings
 analytics:
   google:
@@ -69,8 +68,11 @@ analytics:
   #   id: # fill in your Cloudflare Web Analytics token
 
 # Prefer color scheme setting.
-#
 theme_mode: dark
+
+# Add custom CSS
+sass:
+  style: compressed
 
 # The CDN endpoint for media resources.
 # Notice that once it is assigned, the CDN url
