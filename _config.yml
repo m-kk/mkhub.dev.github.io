@@ -18,6 +18,8 @@ github:
   username: m-kk
 linkedin:
   username: matt-kaili
+twitter:
+  username: mattkaili
 
 social:
   name: Matt Kaili
@@ -25,6 +27,7 @@ social:
   links:
     # The first element serves as the copyright owner's link
     - https://github.com/m-kk # change to your GitHub homepage
+    - https://twitter.com/mattkaili
     - https://www.linkedin.com/in/matt-kaili
 
 # TODO: update
@@ -39,6 +42,23 @@ webmaster_verifications:
 
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
+
+# jekyll_compose settings
+jekyll_compose:
+  default_front_matter:
+    posts:
+      author: matt-kaili
+      description: ""
+      image:
+        path: ""
+        alt: ""
+      categories: []
+      tags: []
+      pin: false
+    drafts:
+      description: ""
+      categories: []
+      tags: []
 
 # TODO: update
 # Web Analytics Settings
