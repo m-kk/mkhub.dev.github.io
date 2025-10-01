@@ -9,72 +9,73 @@ title: Contact
 
 Whether you have questions about templates, need custom design work, or want to discuss a project—I'm here to help.
 
-<form action="https://formspree.io/f/mgvnkjer" method="POST" class="contact-form">
-  <div class="form-group">
-    <label for="name">Name <span class="required">*</span></label>
-    <input 
-      type="text" 
-      name="name" 
-      id="name" 
-      required 
-      placeholder="John Doe"
-      autocomplete="name"
-    >
-  </div>
+<div class="page-contact">
+  <form action="https://formspree.io/f/mgvnkjer" method="POST" class="contact-form">
+    <div class="form-group">
+      <label for="name">Name <span class="required">*</span></label>
+      <input 
+        type="text" 
+        name="name" 
+        id="name" 
+        required 
+        placeholder="John Doe"
+        autocomplete="name"
+      >
+    </div>
 
-  <div class="form-group">
-    <label for="email">Email <span class="required">*</span></label>
-    <input 
-      type="email" 
-      name="email" 
-      id="email" 
-      required 
-      placeholder="john@example.com"
-      autocomplete="email"
-    >
-  </div>
+    <div class="form-group">
+      <label for="email">Email <span class="required">*</span></label>
+      <input 
+        type="email" 
+        name="email" 
+        id="email" 
+        required 
+        placeholder="john@example.com"
+        autocomplete="email"
+      >
+    </div>
 
-  <div class="form-group">
-    <label for="project-type">What brings you here? <span class="required">*</span></label>
-    <select name="project-type" id="project-type" required>
-      <option value="">Select one...</option>
-      <option value="Template Question">Question about a template</option>
-      <option value="Template Support">Template support/technical issue</option>
-      <option value="Custom Healthcare">Custom healthcare design</option>
-      <option value="Custom Coffee">Custom coffee brand work</option>
-      <option value="UI Kit">UI/component system project</option>
-      <option value="Bulk License">Bulk/team licensing inquiry</option>
-      <option value="Partnership">Collaboration opportunity</option>
-      <option value="Other">Something else</option>
-    </select>
-  </div>
+    <div class="form-group">
+      <label for="project-type">What brings you here? <span class="required">*</span></label>
+      <select name="project-type" id="project-type" required>
+        <option value="">Select one...</option>
+        <option value="Template Question">Question about a template</option>
+        <option value="Template Support">Template support/technical issue</option>
+        <option value="Custom Healthcare">Custom healthcare design</option>
+        <option value="Custom Coffee">Custom coffee brand work</option>
+        <option value="UI Kit">UI/component system project</option>
+        <option value="Bulk License">Bulk/team licensing inquiry</option>
+        <option value="Partnership">Collaboration opportunity</option>
+        <option value="Other">Something else</option>
+      </select>
+    </div>
 
-  <div class="form-group">
-    <label for="message">Message <span class="required">*</span></label>
-    <textarea 
-      name="message" 
-      id="message" 
-      rows="8" 
-      required 
-      placeholder="Tell me about your project or question..."
-    ></textarea>
-    <small style="display: block; margin-top: 0.5rem; color: var(--text-muted); font-size: 0.875rem;">
-      For template questions: Include template name and where purchased<br>
-      For custom projects: Brief description, timeline, and budget range (if applicable)
-    </small>
-  </div>
+    <div class="form-group">
+      <label for="message">Message <span class="required">*</span></label>
+      <textarea 
+        name="message" 
+        id="message" 
+        rows="8" 
+        required 
+        placeholder="Tell me about your project or question..."
+      ></textarea>
+      <small style="display: block; margin-top: 0.5rem; color: var(--text-muted); font-size: 0.875rem;">
+        For template questions: Include template name and where purchased<br>
+        For custom projects: Brief description, timeline, and budget range (if applicable)
+      </small>
+    </div>
 
-  <!-- Honeypot for spam protection -->
-  <input type="text" name="_gotcha" style="display:none" tabindex="-1" autocomplete="off">
-  
-  <!-- Hidden fields for better email organization -->
-  <input type="hidden" name="_subject" value="New mkhub.dev contact form submission">
-  
-  <input type="hidden" name="_next" value="https://mkhub.dev/thanks">
+    <!-- Honeypot for spam protection -->
+    <input type="text" name="_gotcha" style="display:none" tabindex="-1" autocomplete="off">
+    
+    <!-- Hidden fields for better email organization -->
+    <input type="hidden" name="_subject" value="New mkhub.dev contact form submission">
+    
+    <input type="hidden" name="_next" value="https://mkhub.dev/thanks">
 
-  <button type="submit" class="btn">Send Message</button>
-</form>
-
+    <button type="submit" class="btn">Send Message</button>
+  </form>
+</div>
 ---
 
 ## Direct Email
