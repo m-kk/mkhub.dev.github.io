@@ -1,0 +1,14 @@
+# Allow all crawlers
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://mkhub.dev/sitemap.xml
+
+# Common files and directories that don't need to be crawled
+Disallow: /assets/js/
+Disallow: /assets/css/
+Disallow: /*.json$
+Disallow: /*.xml$
+Allow: /sitemap.xml
+Allow: /feed.xml
