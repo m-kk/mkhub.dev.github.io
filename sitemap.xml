@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <!-- Homepage -->
+    <url>
+        <loc>https://mkhub.dev/</loc>
+        <lastmod>2025-10-02</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <!-- Main pages -->
+    <url>
+        <loc>https://mkhub.dev/about/</loc>
+        <lastmod>2025-10-02</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://mkhub.dev/archives/</loc>
+        <lastmod>2025-10-02</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://mkhub.dev/categories/</loc>
+        <lastmod>2025-10-02</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://mkhub.dev/tags/</loc>
+        <lastmod>2025-10-02</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://mkhub.dev/contact/</loc>
+        <lastmod>2025-10-02</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Portfolio pages -->
+    <url>
+        <loc>https://mkhub.dev/portfolio/</loc>
+        <lastmod>2025-10-02</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://mkhub.dev/portfolio/coffee/</loc>
+        <lastmod>2025-10-02</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://mkhub.dev/portfolio/developer/</loc>
+        <lastmod>2025-10-02</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://mkhub.dev/portfolio/healthcare/</loc>
+        <lastmod>2025-10-02</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Blog posts -->
+    <url>
+        <loc>https://mkhub.dev/posts/welcome/</loc>
+        <lastmod>2025-09-30</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <!-- Category pages -->
+    <url>
+        <loc>https://mkhub.dev/categories/getting-started/</loc>
+        <lastmod>2025-10-02</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://mkhub.dev/categories/meta/</loc>
+        <lastmod>2025-10-02</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+    </url>
+
+    <!-- Tag pages -->
+    <url>
+        <loc>https://mkhub.dev/tags/coffee/</loc>
+        <lastmod>2025-10-02</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://mkhub.dev/tags/design-systems/</loc>
+        <lastmod>2025-10-02</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://mkhub.dev/tags/healthcare/</loc>
+        <lastmod>2025-10-02</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://mkhub.dev/tags/templates/</loc>
+        <lastmod>2025-10-02</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://mkhub.dev/tags/welcome/</loc>
+        <lastmod>2025-10-02</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+    </url>
+</urlset>
